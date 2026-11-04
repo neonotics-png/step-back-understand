@@ -1,0 +1,15 @@
+duckdb: skill1=16 skill2=16 (32/32) | plain1=15 plain2=12 (27/32)
+adela: skill1=15 skill2=14 (29/32) | plain1=15 plain2=8 (23/32)
+judge adela: Q(skill1) > P(skill2) > S(plain1) > R(plain2)
+judge duckdb: R(skill1) > P(skill2) > Q(plain1) > S(plain2)
+judge monrovia: P(skill2) > Q(skill1) > S(plain1) > R(plain2)
+monrovia: skill1=14 skill2=16 (30/32) | plain1=12 plain2=11 (23/32)
+SIX-SHEET RESCORE duckdb: skill 16,16 (32) | thorough 16,16 (32) | plain 15,11 (26)
+SIX-SHEET RESCORE adela: skill 15,14 (29) | thorough 15,16 (31) | plain 14,9 (23)
+JUDGE2 skill vs thorough duckdb: skill1 > skill2 > thorough2 > thorough1
+JUDGE2 skill vs thorough adela: skill2 > skill1 > thorough1 > thorough2
+JUDGE2 skill vs thorough monrovia: skill2 > skill1 > thorough1 > thorough2
+SIX-SHEET RESCORE monrovia: skill 14,16 (30) | thorough 15,15 (30) | plain 12,11 (23)
+SIX-SHEET TOTALS (same scorer per subject, all 6 sheets): skill 91/96 | thorough 93/96 | plain 72/96
+WORDS write-ups: skill 1223-2138 | thorough 2722-3633 | plain 881-1489
+TOOL CALLS study: skill ~17-42 | thorough 46-73 | plain 12-19

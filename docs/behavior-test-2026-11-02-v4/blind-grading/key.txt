@@ -1,0 +1,3 @@
+p1 musician A=without B=with
+p2 product A=with B=without
+p3 idea A=without B=with

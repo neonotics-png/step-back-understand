@@ -1,0 +1,12 @@
+tailwind HOLISTIC PREFER=X(without) STRENGTH=clear
+tailwind QUIZ X(without)=15/16 Y(with)=13/16 note: without won practical q4,q6,q8; with won origin/design-rationale q1
+tdd HOLISTIC PREFER=Y(without) STRENGTH=strong
+uv HOLISTIC PREFER=Y(without) STRENGTH=clear
+rust HOLISTIC PREFER=X(without) STRENGTH=strong
+wire HOLISTIC PREFER=Y(without) STRENGTH=clear
+tdd QUIZ X(with)=13/16 Y(without)=14/16
+uv QUIZ X(with)=13/16 Y(without)=15/16
+wire QUIZ X(with)=12/16 Y(without)=16/16
+rust QUIZ X(without)=15/16 Y(with)=15/16 note: with-skill reader marked 5 Qs 'not covered' but reasoned correctly anyway (reader prior knowledge leak)
+collier HOLISTIC PREFER=Y(without) STRENGTH=clear
+collier QUIZ X(with)=10/16 Y(without)=13/16

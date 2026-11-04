@@ -1,0 +1,27 @@
+p1 j2 A: teaches=6 reveals=7 distinct=6 support=6 readable=9 calibrated=5
+p1 j2 B: teaches=8 reveals=8 distinct=7 support=9 readable=7 calibrated=9
+p1 j2 PREFER: B
+p1 j3 A: teaches=7 reveals=7 distinct=5 support=7 readable=9 calibrated=5
+p1 j3 B: teaches=8 reveals=8 distinct=8 support=9 readable=7 calibrated=9
+p1 j3 PREFER: B
+p2 j3 A: teaches=9 reveals=9 distinct=8 support=9 readable=7 calibrated=8
+p2 j3 B: teaches=6 reveals=6 distinct=7 support=6 readable=9 calibrated=5
+p2 j3 PREFER: A
+p2 j2 A: teaches=9 reveals=9 distinct=8 support=10 readable=6 calibrated=9
+p2 j2 B: teaches=6 reveals=7 distinct=6 support=6 readable=9 calibrated=5
+p2 j2 PREFER: A
+p1 j1 A: teaches=8 reveals=7 distinct=5 support=7 readable=9 calibrated=5
+p1 j1 B: teaches=8 reveals=9 distinct=7 support=9 readable=6 calibrated=9
+p1 j1 PREFER: B
+p2 j1 A: teaches=9 reveals=9 distinct=8 support=9 readable=7 calibrated=9
+p2 j1 B: teaches=6 reveals=7 distinct=6 support=6 readable=8 calibrated=5
+p2 j1 PREFER: A
+p3 j2 A: teaches=8 reveals=8 distinct=7 support=6 readable=9 calibrated=5
+p3 j2 B: teaches=7 reveals=8 distinct=8 support=9 readable=6 calibrated=8
+p3 j2 PREFER: B
+p3 j3 A: teaches=9 reveals=8 distinct=7 support=7 readable=9 calibrated=6
+p3 j3 B: teaches=7 reveals=8 distinct=8 support=9 readable=6 calibrated=8
+p3 j3 PREFER: A
+p3 j1 A: teaches=9 reveals=8 distinct=7 support=7 readable=8 calibrated=6
+p3 j1 B: teaches=6 reveals=7 distinct=8 support=9 readable=6 calibrated=8
+p3 j1 PREFER: A

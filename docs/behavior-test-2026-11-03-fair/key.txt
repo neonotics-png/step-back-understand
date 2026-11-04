@@ -1,0 +1,6 @@
+tailwind X=without Y=with
+tdd X=with Y=without
+uv X=with Y=without
+wire X=with Y=without
+rust X=without Y=with
+collier X=with Y=without
